@@ -4,7 +4,7 @@ new Vue({
     products: [
       { id: 1, name: 'Iphone 15 ProMax', price: 2020000, image: '/images/iphone15.jpg' },
       { id: 2, name: 'Iphone 12', price: 440000, image: '/images/iphone12.jpg' },
-      { id: 3, name: 'Iphone XS Max', price: 495000, image: '/images/iphonex.jpg' },
+      { id: 3, name: 'Iphone XS Max', price: 495000, image: '/images/iphoneX.jpg' },
       { id: 4, name: 'Iphone 13', price: 770999, image: '/images/iphone13.jpg' },
       { id: 5, name: 'IPhone 11 Pro Max', price: 765000, image: '/images/iphone11.jpg' },
       { id: 6, name: 'Iphone XR', price: 760000, image: '/images/iphoneXR.jpg' },
